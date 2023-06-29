@@ -1,0 +1,6 @@
+target
+release
+schema
+artifacts
+Cargo.lock
+buildcontract-rize-staking.sh
